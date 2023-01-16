@@ -1,2 +1,2 @@
 # requiremnts.txt
-pip install "snowflake-connector-python[pandas]"
+pip import "snowflake-connector-python[pandas]"
