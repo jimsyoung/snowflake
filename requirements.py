@@ -1,2 +1,2 @@
 # requiremnts.txt
-snowflake-connector-python
+snowflake-connector-python[pandas]
